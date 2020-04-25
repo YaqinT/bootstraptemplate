@@ -1,0 +1,399 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.carousel-item {
+  height: 100%;
+  min-height: 300px;
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.info{
+  height:40%;
+  /* border:1px solid white; */
+  color:white;
+  max-width: 70%;
+  margin: 0 auto;
+  margin-top: 36px;
+  padding-top:20px;
+}
+
+header{
+  height: auto;
+  background-image: url("../img/bg1.png");
+}
+
+.section3{
+  background-image: url("../img/bg3.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height:auto;
+}
+
+.supp{
+  width:50%;
+  margin:0 auto;
+}
+.supp img{
+  width:100%;
+  margin-bottom: 8%;
+}
+/* .section3 .margin-bottom{
+  margin-bottom: 5%;
+} */
+.section4{
+  height:auto;
+}
+.sec4-wrapper{
+  border:1px solid black;
+  width:60%;
+  height:auto;
+  margin:0 auto;
+}
+
+nav{
+  /* max-height:5vh;
+  /* height:auto; */ */
+  /* line-height: 36px; */
+}
+.small{
+  font-size: 0.9vw;
+}
+p{
+  margin-bottom: 0;
+  height: 3vw;
+}
+.red{
+  color:#ca0000;
+}
+.info ul li{
+  list-style: none;
+  /* float:left; */
+}
+.info h1{
+  font-size: 3.5vw;
+  margin-top:2%;
+}
+.info ul{
+  padding-left: 0;
+  clear:both;
+}
+.info3{
+  margin-top: 5vw;
+}
+.info3 li{
+  list-style: none;
+  float:left;
+  margin-right: 3vw;
+  max-width: 28%;
+}
+.info3 li p{
+  font-size: 1.1vw;
+}
+.info2 li h2{
+  margin-top:5%;
+}
+.bottle img{
+  width:13vw;
+/*
+  width:100px;
+  height:120px; */
+  /* vertical-align: bottom; */
+  margin-right: 5vw;
+  float:right;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
+  margin-top: -70px;
+  /* change */
+}
+.thin{
+  width:27%;
+}
+.lighter{
+  background-color: rgba(255, 255, 255, 0.251);
+}
+.heavier{
+  background-color: rgba(255, 255, 255, 0.678);
+}
+.white_font{
+  color:white;
+}
+.bold{
+  font-weight: bolder;
+}
+.badge img{
+    width:60%;
+  /* height:30%;
+
+  background-color: rgba(255,255,255,0.8);
+  border-radius: 50%; */
+  margin-top: 20px;
+}
+.money_back{
+  text-align: center;
+  padding-right: 0;
+  margin-right: 0;
+}
+.card1 .money_back_wrapper{
+  margin-top: 10%;
+}
+.card1 p{
+  font-size: 0.8rem;
+  margin-top: 15%;
+}
+.card3 p{
+  font-size: 0.8rem;
+  margin-top: 15%;
+}
+
+.card3 h3{
+  margin-top: 20%;
+}
+.wide{
+  width:45%;
+}
+.margin-right{
+  margin-right: 3%;
+}
+.margin-top{
+  margin-top: 3%;
+}
+.thin_num{
+  font-weight: lighter;
+}
+.card2 h4{
+  margin-top: 4%;
+  font-size: 1.8rem;
+}
+.card2 hr{
+  width:80%;
+  background-color:#666666;
+}
+.inline-block li{
+  list-style: none;
+  float:left;
+  line-height: 0.5;
+}
+.card2 .para{
+  margin-top: 5%;
+}
+.card2 .para-big{
+    font-size: 1.4vw;
+}
+.card2 .para-small{
+    font-size: 1vw;
+}
+.pill img{
+  width:20%;
+  float:right;
+  margin-top:-25%;
+}
+.sex_pic .sex{
+  width:160vw;
+      max-width: 160%;
+      margin-left: 10%;
+}
+
+.sex_pic .text{
+  margin:0 auto;
+  margin-bottom: 20vh;
+}
+.sex_pic{
+  text-align: center;
+}
+.box3{
+    max-width: 60%;
+}
+.head-left .width-adjust{
+  width:80%;
+}
+.avatar img{
+  width:70%;
+}
+.head-down{
+  margin-top: 5%;
+}
+.head-down-left{
+  text-align: center;
+  width:40%;
+  font-size: 0.8vw;
+}
+.profile li{
+  list-style: none;
+  margin-top: 3vh;
+}
+.profile{
+  padding-left: 0;
+}
+.star{
+  /* display: block; */
+  margin:0 auto;
+}
+.profile_intro{
+  width:60%;
+  padding-left: 5%;
+}
+.profile_intro .intro1{
+  margin-top: 6%;
+}
+.profile_intro .intro2{
+  margin-top: 6%;
+}
+.profile_intro .intro3{
+  margin-top: 6%;
+}
+.head-down .head-down-left, .head-down .profile_intro{
+  float: left;
+  clear: none;
+}
+.bottom{
+  text-align: center;
+  margin-top: 8vh;
+}
+.bottom button{
+  margin-bottom: 5%;
+}
+.bottom div{
+  font-size: 0.8vw;
+}
+.col-md-8{
+  text-align: center;
+  width:100%;
+}
+.section3{
+  padding-top: 5%;
+}
+.sec4-wrapper .head{
+  width:20%;
+  height:10%;
+  background-color: #ccc;
+  margin:4% auto;
+}
+/* .sec4-wrapper h1{
+  margin:0 auto;
+} */
+.sec4-wrapper{
+  text-align: center;
+}
+.dropdown_left{
+  float: left;
+  clear:left;
+}
+.dropdown_left{
+  float: right;
+  clear:right;
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+.card2 a img{
+  width:60%;
+}
+.bottom a img{
+  width:70%;
+}
+/* .clearfix {
+    display: inline-block;
+} */
+
+/* html[xmlns] .clearfix {
+    display: block;
+} */
+
+/* * html .clearfix {
+    height: 1%;
+} */
+.left-float{
+  float:left;
+}
+.right-float{
+  float:right;
+}
+.dropdowns ul li{
+  list-style: none;
+  float:left;
+  width:45%;
+  margin-top: 5vh;
+}
+.dropdowns ul{
+  width:100%;
+    margin:0 auto;
+    padding-left:0;
+}
+.margin-right{
+  float:kle
+}
+.bottom-pics li{
+  list-style: none;
+  float:left;
+  height:100%;
+  width:50%;
+}
+.bottom-pics li div{
+  background-color:#ccc;
+}
+.bottom-pics li .pic-up{
+  width:50%;
+  height:40%;
+}
+.bottom-pics li .pic-down{
+  width:50%;
+  height:40%;
+  margin-top: 5vh;
+}
+.bottom-pics li .pic-right{
+  width:50%;
+  height:90%;
+}
+.bottom-pics{
+  height:40%;
+}
+.sec4-wrapper .big{
+  font-size: 3.5vw;
+
+  line-height: 0.95;
+}
+.sec4-wrapper .small{
+  font-size: 0.9rem;
+  line-height: 0.95;
+}
+.sec4-wrapper hr{
+  background-color:black;
+  height:0.2vh;
+  width:90%;
+  margin-top: 8vh;
+}
+.footer{
+  height:auto;
+}
+.footer-wrapper{
+  width:60%;
+  /* border:1px solid black; */
+  margin:0 auto;
+}
+.footer-wrapper ul li{
+  list-style: none;
+  float:left;
+}
+.footer-font1{
+  font-size: 12px;
+  transform: scale(0.8,0.8);
+}

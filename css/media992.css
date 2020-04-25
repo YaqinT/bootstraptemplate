@@ -1,0 +1,32 @@
+@media screen and (max-width: 992px) {
+  .col-lg-4 {
+    width:100%;
+  }
+  .card{
+    width:50%;
+    margin:auto;
+    height:75vh;
+  }
+  .h-100{height:75vh!important}
+  .card1 p{margin-top: 5%;
+           margin-bottom: 5%}
+  .card3 p{margin-top: 5%; margin-bottom: 5%}
+  .card3 h3{margin-top: 5%}
+  .sex_pic .sex{
+    width:65vw;
+  }
+  .sex_pic .text{
+    margin-bottom: 10vh!important;
+    margin-top: 10vh !important;
+  }
+
+  .head-left h2{font-size: 3vw}
+  .card-body h3{font-size:1.5rem}
+  p{font-size: 1rem}
+  .card-body button{
+    font-size: 1.0vw;
+  }
+  .card h4{font-size:2.5vw}
+  .card2 ul li .red{font-size: 2vw!important}
+  .card2 ul li .white{font-size: 1.5vw!important}
+  }
